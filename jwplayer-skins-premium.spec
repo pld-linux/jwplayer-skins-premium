@@ -12,7 +12,7 @@ NoSource:	0
 URL:		http://www.jwplayer.com/skins/
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	unzip
-Requires:	jwplayer >= 6.9
+Requires:	jwplayer >= 6.7
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
